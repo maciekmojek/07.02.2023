@@ -1,0 +1,27 @@
+
+
+body{
+    background-color: #000066;
+}
+
+#li
+{
+    width: 300px;
+    text-align: center;
+    border-radius: 15px;
+    color: #660000;
+    background-color: #ffffb3;
+}
+li{
+    height: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 7px;
+    list-style-image:url('ss1.jpg');
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+li:hover{
+    background-color: #99ff66;
+    font-size: 18pt;
+}
