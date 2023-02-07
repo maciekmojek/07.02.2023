@@ -1,0 +1,55 @@
+body
+{
+    font-family:"Comic Sans MS";
+    font-size: 50pt;
+    text-align: center;
+}
+
+.wiosna
+{
+    background-image: url(../grafiki/wiosna.jpg);
+    background-size: cover;
+    width: 350px;
+    height: 250px;
+}
+
+.lato
+{
+    background-image: url(../grafiki/lato.jpg);
+    background-size: cover;
+    width: 350px;
+    height: 250px;
+}
+
+.jesien
+{
+    background-image: url(../grafiki/jesień.jpg);
+    background-size: cover;
+    width: 350px;
+    height: 250px;
+}
+
+.zima
+{
+    background-image: url(../grafiki/zima.JPG);
+    background-size: cover;
+    width: 350px;
+    height: 250px;
+}
+
+.wiosna:hover
+{
+ font-size: 12pt;
+}
+.lato:hover
+{
+ font-size: 12pt;
+}
+.jesien:hover
+{
+ font-size: 12pt;
+}
+.zima:hover
+{
+ font-size: 12pt;
+}

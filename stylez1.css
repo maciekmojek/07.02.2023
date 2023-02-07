@@ -1,0 +1,44 @@
+body
+{
+    background-color: #800000;
+    margin: 10px 10px 10px 10px;
+    padding: 10px 10px 10px ;
+}
+h1
+{
+    font-size: 40px;
+    text-align: center;
+    text-shadow: 3px 2px #ff0;
+}
+ul
+{
+    font-size: 20pt;
+    font-family:'Segoe UI';
+    letter-spacing: 2px;
+    text-shadow: 1px 2px #0f0;
+}
+ol
+{
+    list-style-image: url('ikona.jpg');
+    color: white;
+}
+.zima
+{
+    background-image: url('zima.JPG');
+    width: 400px;
+}
+.jesien
+{
+    background-image: url('jesien.jpg');
+    width: 400px;
+}
+.wiosna
+{
+    background-image: url('wiosna.jpg');
+    width: 400px;
+}
+.lato
+{
+    background-image: url('lato.jpg');
+    width: 400px;
+}
